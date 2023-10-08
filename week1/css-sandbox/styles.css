@@ -1,0 +1,19 @@
+* {
+    /* border: 1px solid red; */
+}
+
+body {
+    font-size: 22px;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    background: papayawhip;
+    color: black;
+}
+
+h1, p {
+    font-family: monospace;
+}
+
+.gray {
+    color: gray;
+}
